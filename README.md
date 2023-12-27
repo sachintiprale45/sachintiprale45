@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachintiprale45&label=Profile%20views&color=0e75b6&style=flat" alt="sachintiprale45" /> </p>
 
-- 🔭 I’m currently working on **Smart basket using IOT**
+- 🔭 I’m Developed **Smart basket using IOT**
 
-- 🌱 I’m currently learning **DSA , REACT , JS**
+- 🌱 I’m currently learning **DSA , REACT **
 
-- 💬 Ask me about **C,C++ ,Core Java, HTML , CSS , SQL**
+- 💬 Ask me about **C,Core Java, HTML , CSS , SQL,JS **
 
 - 📫 How to reach me **sachintiprale06@gmail.com**
 
